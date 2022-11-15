@@ -1,0 +1,93 @@
+﻿Sources used for the project:
+
+
+
+
+ Mercury information: https://solarsystem.nasa.gov/planets/mercury/overview/
+
+
+mercury source picture: https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg
+
+
+Venus information : https://solarsystem.nasa.gov/planets/venus/overview/
+
+
+Venus source picture: https://cdn.britannica.com/86/21186-050-C48F8AA1/radar-clouds-Scientists-surface-Venus-computer-image.jpg
+
+
+Earth information https://solarsystem.nasa.gov/planets/earth/overview/
+
+
+Earth source picture: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/Components/Photo_StoryLevel/080708/080708-earth%20hmed-10a.jpg
+
+
+Mars information : https://solarsystem.nasa.gov/planets/mars/overview/
+
+
+Mars source picture: https://starwalk.space/gallery/images/mars-the-ultimate-guide/1920x1080.jpg
+
+
+Jupiter information : https://solarsystem.nasa.gov/planets/jupiter/overview/
+
+
+Jupiter source picture: https://www.astronomytrek.com/wp-content/uploads/2012/11/jupiter.png
+
+
+Saturn information: https://solarsystem.nasa.gov/system/feature_items/images/151_saturn_carousel_1.jpg
+
+
+Saturn source picture : https://solarsystem.nasa.gov/system/feature_items/images/151_saturn_carousel_1.jpg
+
+
+Uranus information : https://solarsystem.nasa.gov/planets/uranus/overview/
+Uranus source picture: https://solarsystem.nasa.gov/system/feature_items/images/88_carousel_uranus.jpg
+
+
+Neptune information : https://solarsystem.nasa.gov/planets/neptune/overview/
+
+
+Neptune source picture: https://solarsystem.nasa.gov/system/feature_items/images/82_carousel_neptune_1.jpg
+
+
+Pluto information : https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/
+
+
+Pluto source picture : https://solarsystem.nasa.gov/system/feature_items/images/138_PIA20473_800w.jpg
+
+
+Textures used for project:
+
+
+Mercury texture : https://www.solarsystemscope.com/images/textures/full/2k_makemake_fictional.jpg
+
+
+Earth texture:
+https://img00.deviantart.net/04ef/i/2009/114/3/e/new_earth_texture_map_by_lightondesigns.jpg
+
+
+Venus texture:
+https://nasa3d.arc.nasa.gov/shared_assets/images/ven0aaa2/ven0aaa2-copy-428-321.jpg
+
+
+Mars texture:
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/mars_texture.jpg
+
+
+Jupiter texture:
+https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA07782_hires.jpg
+
+
+Saturn texture:
+https://www.solarsystemscope.com/images/textures/full/2k_saturn.jpg
+
+
+Uranus texture:
+https://img00.deviantart.net/957c/i/2017/165/4/9/uranus_texture_map_by_jcpag2010-db7yjwb.png
+
+
+Neptune texture:
+https://img00.deviantart.net/f068/i/2017/165/b/c/neptune_texture_map_by_jcpag2010-dbcjcv5.png
+
+
+Pluto texture:
+https://pre00.deviantart.net/4677/th/pre/f/2015/314/4/e/pluto_map__2015_nov_10__by_snowfall_the_cat-d918tlb.png
